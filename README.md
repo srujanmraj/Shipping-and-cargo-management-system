@@ -1,0 +1,3 @@
+# Shipping-and-cargo-management-system
+mini DBMS project
+This is a comprehensive shipping and cargo management system developed using Database Management System (DBMS). The system is designed to improve supply chain management and provide real-time tracking of cargo and shipping. It enables the users to manage inventory, maintain shipping schedules and track the movement of cargo. The system also provides various reports and analytics to help the logistics company make informed decisions. With its user-friendly interface and efficient performance, this system will help optimize logistics operations and reduce costs.
